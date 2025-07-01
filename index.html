@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter App | NKP</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" >
+    
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="box">
+
+            <div class="header">Increment & Decrement</div>
+
+            <div class="counter">
+
+                <button onclick="decrement()"><i class="fa fa-minus" aria-hidden="true"></i></button>
+
+                <h1 id="countNumber">0</h1>
+
+                <button onclick="increment()"><i class="fa fa-plus" aria-hidden="true"></i></button>
+                
+            </div>
+
+            <h2 id="reset" onclick="reload()">Reset</h2>
+            
+        </div>
+        
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

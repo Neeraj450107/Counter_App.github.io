@@ -37,6 +37,7 @@ The current count is always visible on the display screen.
 ## Demo
 
 
+https://github.com/user-attachments/assets/bb0e038f-fef0-46f2-8ed0-1321c3a527ec
 
 ## 🛠️ Built With
 
@@ -47,6 +48,10 @@ The current count is always visible on the display screen.
 ## Screenshots
 
 
+
+![Image](https://github.com/user-attachments/assets/85896666-8d6f-4ccc-a781-8d1e4c45f57d)
+
+![Image](https://github.com/user-attachments/assets/7fa1a66a-467d-4001-a7d3-96ef3d83db1b)
 
 
 ## Getting Started
